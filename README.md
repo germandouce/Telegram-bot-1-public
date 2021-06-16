@@ -4,15 +4,26 @@ A very simple Telegram chatbot developed whith pyTelegramBotAPI module
 Find it on telegram as @IgBotTest1Bot !!
 
 
+
+
 COMMANDS LIST
+
 /start: Starts the bot
+
 /help: Sends help
+
 /random_question: Asks you a random question (in spanish)
+
 /ig_username [username]: Sends you the "username"'s ig profile link
 
 
+
+
 EASTER EGGS!
+
 try with the word "cry" or "llorar" and its verbal forms...
+
+
 
 
 REPOSITORY FILES
