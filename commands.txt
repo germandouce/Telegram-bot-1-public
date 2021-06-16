@@ -1,0 +1,2 @@
+LIST OF FREQUENTLY USED COMANDS
+heroku ps -a <app name> : returns free dyno hours left
