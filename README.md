@@ -4,7 +4,7 @@ A very simple Telegram chatbot developed using pyTelegramBotAPI module
 Find it on telegram as @IgBotTest1Bot !!
 
 
-## COMMANDS LIST
+## Commands list
 
 * /start: Starts the bot
 
@@ -15,12 +15,12 @@ Find it on telegram as @IgBotTest1Bot !!
 * /ig_username[username]: Sends you the "username"'s ig profile link
 
 
-## EASTER EGGS!
+## Easter eggs
 
 Try with the word *"cry"* or *"llorar"* and its verbal forms...
 
 
-## REPOSITORY FILES
+## Repository files
 
 * The main() is located in "tlgrmbot.py".
 
